@@ -34,7 +34,7 @@ Create a superhero hunter app. Use ONLY vanilla javascript, no libraries or fram
 
 # Git Clone
 To use this repository in your local system-
-Git clone : https://github.com/bhushanchopade/SuperHero-Hunter-App.git`
+Git clone : https://github.com/bhushanchopade/SuperHero-Hunter-App.git
 
 
 # PRODUCT DEMO
