@@ -4,6 +4,7 @@ body{
     background-size: cover;
     background-repeat: no-repeat;
 }
+/* Adding styles for search box */
 #searchHero{
     display: block;
     width: 53%;
@@ -15,6 +16,7 @@ body{
     padding-left: 2%;
     background-color: whitesmoke;
 }
+/* Adding styles for main heading */
 #main-heading{
     text-align: center;
     font-size: 30px;
